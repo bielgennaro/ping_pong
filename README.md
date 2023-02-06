@@ -1,2 +1,2 @@
-# ping_pong
-Um simples joguinho de ping-pong para passar o tempo, feito com HTML Canvas
+# Ping-pong
+Sinta-se livre para brincar com o código!
